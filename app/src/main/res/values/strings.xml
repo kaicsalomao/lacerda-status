@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_leira">Leira</string>
+    <string name="title_horta">Horta</string>
+    <string name="app_name">Lacerda Status</string>
+
+</resources>
